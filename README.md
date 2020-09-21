@@ -11,7 +11,7 @@ Regarding the `cfg_obj`, we see in its class definition an override of the `__st
 
 ## Run Program and see output:
 ```
-$ /usr/bin/python3 pools_and_cfg_handling_pattern.py
+$ /usr/bin/python3 mp_and_cfg_handling_pattern.py
 lapse_seconds_all_queries: 4.018662230002519
 query_result: {'h': 'WQKss'} query_time: 2.002564299997175
 query_result: {'n': 'iuGQi'} query_time: 2.0024301299999934
