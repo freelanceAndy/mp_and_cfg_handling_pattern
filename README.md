@@ -34,4 +34,4 @@ Config Object:
     "z": []
 }
 ```
-These query results and column names are generated randomly. Niether the database execution, results, nor results processing reflect realistic code. The function `exceute_database_query` would normally be responsible for creating a database connection, running the query, and closing the database connection. But this function is meant to represent accessing any external resource.
+These query results and column names are generated randomly. Niether the database execution, results, nor results processing reflect realistic code. The function `exceute_database_query` would normally be responsible for creating a database connection, running the query, and closing the database connection. This function is meant to represent accessing any external resource.
